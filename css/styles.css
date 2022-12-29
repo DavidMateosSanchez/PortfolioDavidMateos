@@ -482,7 +482,7 @@ footer{
     height: 40px;
     width: 40px;
     border-radius: 50px;
-    background-image: url(images/github-icon.png);
+    background-image: url(/images/github-icon.png);
     background-position: center;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -499,11 +499,11 @@ footer{
 }
 
 .social-icon:nth-of-type(2){
-    background-image: url(images/linkedin.png);
+    background-image: url(/images/linkedin.png);
 }
 
 .social-icon:nth-of-type(3){
-    background-image: url(images/email-icon.png);
+    background-image: url(/images/email-icon.png);
 }
 
 .email-direction{
