@@ -49,7 +49,7 @@ body{
 }
 
 .title{
-    font-size: 5em;
+    font-size: 4.5em;
     font-weight: bold;
     color: white;
     text-align: center;
@@ -295,8 +295,7 @@ main{
 }
 
 .slide-container{
-    max-width: 1120px;
-    width: 100%;
+    width: 90%;
     height: 70vh;
     padding: 40px 0;
 }
@@ -311,10 +310,6 @@ main{
     height: 60vh;
     opacity: 85%;
     width: auto;
-}
-
-.card{
-    min-width: 200px;
 }
 
 .card-content .face{
@@ -578,6 +573,10 @@ footer{
         color: white;
         transition: 0.5s;
         opacity: 50%;
+    }
+
+    .title{
+        font-size: 5vh;
     }
 
     .sub-container{
