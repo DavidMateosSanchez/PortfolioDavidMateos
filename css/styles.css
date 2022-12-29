@@ -310,10 +310,11 @@ main{
 .card-content{
     height: 60vh;
     opacity: 85%;
+    width: auto;
 }
 
 .card{
-    min-width: 300px;
+    min-width: 200px;
 }
 
 .card-content .face{
