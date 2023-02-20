@@ -177,7 +177,6 @@ main{
     font-size: 1.1em;
     padding: 50px;
     color: var(--green2);
-    font-weight: bold;
     text-align: justify;
 }
 
